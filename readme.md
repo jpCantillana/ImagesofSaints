@@ -1,1 +1,1 @@
-Open https://raw.githack.com/jpCantillana/ImagesofSaints/main/comments/001.html
+Open https://raw.githack.com/jpCantillana/ImagesofSaints/main/comments/index.html
